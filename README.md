@@ -27,7 +27,7 @@ Palaižot programmu lietotājam tiek dotas 6 izvēles pirmā parāda visas lieta
 
 ## Programmas funkcijas
 
-Programmā tika izveiots "Virtuāls Ledusskapis" kurš tika veidots uz hash table funkcionalitātes, tajā lauj lietotājam apskatīt,pievienot,ka arī noņemt produktus ja tas ir vajadzīgs
-Programmā ir iebūvēta webscraping funkcija ar kuras palīdzību tiek aizgūtas receptes un to sastāvdaļas.
-Programmā ir iebūvēta headers funkcija kas ļauj kodam izskatīties kā īstam pārlūkam samazinot iespēju ka kods tiks bloķēts no vajadzīgas informācijas aizgūšanas. Šis tika ielikts, jo neizmantojot šo pirmkārt tika sagādātas problēmas ar citu saitēm un nespēju aizgūt datus, kā arī šis funkcijas pievienošana nodrošina ilgāku saderību ar esošo izmantoto adresi (www.easyhomemeals.com)
-Programmā tika pievienota sastāvdaļu attīrsīšana no nevajadzīgajiem pielikumiem kas nav svarīgi mūsu kodam, tas tika izdarīts definējot atslēgas vārdus piemēram 2 tablespoons no 2 tablespoons salt vai sliced no sliced beef, jo neizmantojot šo attīrīšanu veidojās problēmas ar to ka programma nespēja pilnvērtīgi salīdzināt to kas ir vajadzīgs priekš receptes un to kas atrodas ledusskapī
+- Programmā tika izveiots "Virtuāls Ledusskapis" kurš tika veidots uz hash table funkcionalitātes, tajā lauj lietotājam apskatīt,pievienot,ka arī noņemt produktus ja tas ir vajadzīgs
+- Programmā ir iebūvēta webscraping funkcija ar kuras palīdzību tiek aizgūtas receptes un to sastāvdaļas.
+- Programmā ir iebūvēta headers funkcija kas ļauj kodam izskatīties kā īstam pārlūkam samazinot iespēju ka kods tiks bloķēts no vajadzīgas informācijas aizgūšanas. Šis tika ielikts, jo neizmantojot šo pirmkārt tika sagādātas problēmas ar citu saitēm un nespēju aizgūt datus, kā arī šis funkcijas 0 pievienošana nodrošina ilgāku saderību ar esošo izmantoto adresi (www.easyhomemeals.com)
+- Programmā tika pievienota sastāvdaļu attīrsīšana no nevajadzīgajiem pielikumiem kas nav svarīgi mūsu kodam, tas tika izdarīts definējot atslēgas vārdus piemēram 2 tablespoons no 2 tablespoons salt vai sliced no sliced beef, jo neizmantojot šo attīrīšanu veidojās problēmas ar to ka programma nespēja pilnvērtīgi salīdzināt to kas ir vajadzīgs priekš receptes un to kas atrodas ledusskapī
